@@ -1,7 +1,7 @@
 import React from 'react'
 
 export const Onpage = ({data}) => {
-    console.log(data)
+    // console.log(data)
   return (
     <div>
         <p className='text-5xl font-semibold text-gray-700 text-center mt-8' >Onpage Results</p>
